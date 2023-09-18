@@ -1,1 +1,1 @@
-![screenshot](t.gif)
+![gopher](gopher_taping.gif)
